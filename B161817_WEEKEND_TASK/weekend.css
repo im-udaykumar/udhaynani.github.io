@@ -1,0 +1,72 @@
+.head a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-family: Comic sans MS;
+    margin-left: 20px;
+}
+.head a:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+}
+.name h1{
+    color: orange;
+    margin-left: 20px;
+}
+.name p{
+    margin-left: 20px;
+}
+.cards{
+    margin-left:20px;
+    width:65%;
+}
+.cards h1{
+    color:orange;
+}
+.cards p{
+    color:blue;
+}
+.cards img{
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.raju h1{
+    color: orange;
+    
+}
+.raju a{
+    text-decoration: none;
+    font-family: Comic;
+    color: black;
+    font-weight:bold;
+}
+.raju{
+    padding: 10px;
+    position : absolute;
+    top : 370px;
+    left: 1000px;
+}
+.raju a:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cards-section{
+	display: flex;
+	justify-content: space-between;
+}
+.card{
+	margin: 16px;
+	width: 25%;
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+}
+.card:hover{
+    background-color: orange;
+    color: white;
+}
